@@ -9,4 +9,3 @@ try with stash
 checking rebase
 final testing of the rebase
 cool checking of rebase     
-dscghahkb
