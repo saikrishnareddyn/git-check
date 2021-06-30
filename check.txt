@@ -4,12 +4,5 @@ hello
 sai
 try with stash
 //checking the stash 
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
 //  try
-=======
 //hello world
->>>>>>> Stashed changes
-=======
-//hello world
->>>>>>> Stashed changes
