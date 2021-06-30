@@ -7,3 +7,4 @@ try with stash
 //  try
 //hello world
 checking rebase
+final testing of the rebase
