@@ -2,4 +2,8 @@ hello
 reddy this is new branch
 hello
 sai
+<<<<<<< HEAD
 try with stash
+=======
+//checking the stash 
+>>>>>>> 7427f7fa35449fc9b7ba685fe12b7ef11720f4cc
